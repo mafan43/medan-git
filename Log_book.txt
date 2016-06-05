@@ -1,0 +1,168 @@
+=======================
+INFORMASI UMUM
+
+Judul Topik: Medan Rumah Kita
+Alamat Github: https://github.com/mafan43/medan-git
+Alamat Trello: https://trello.com/b/zYEk2Tlf/projek-medan-rumah-kita
+Anggota 1:
+	Nama: Muhammad Affam
+	NIM: 14.111.2117
+Anggota 2:
+	Nama: Rizky Syahputra
+	NIM: 14.111.2109
+Anggota 3:
+	Nama: Santri Zahratul Fatmi
+	NIM: 14.111.0485
+Anggota 4:
+	Nama: Muhammad Iqbal Lubis
+	NIM: 14.111.4215
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: Muhammad Affan (14.111.2117)
+
+Sprint 2:
+30/5 - 31/5
+Scrummaster: Rizky Syahputra (14.111.2109)
+
+Sprint 3: 
+1/6 - 2/6
+Scrummaster: Muhammad Iqbal Lubis (14.111.4215)
+
+Sprint 4: 
+3/6 - 5/6
+Scrummaster: Santri Zahratul Fatmi (14.111.0485)
+
+Progress Harian
+------------------------------------
+
+26/5 
+Daily Scrum
+Muhammad Affan:
+1. Hari ini saya menentukan Scrum Master 1-4, mengubah dan menentukan design dasar presentation, membagi tugas backlog dalam Sprint Backlog serta memantau proses Git dan kesulitan yang dialami anggota
+2. Saya ada kendala di proses cloning anggota lain karena clone dengan git bash mereka sukses tetapi tidak bisa push maupun pull
+
+Rizky Syahputra:
+1. Hari ini saya mengerjakan cloning repository
+2. Saya ada kendala pada saat mengcloning repository dan terjadi beberapa error
+
+Muhammad Iqbal Lubis:
+1. Hari ini saya mengerjakan clone repository dan fork pada repository
+2. Saya ada kendala dalam saat cloning repository, saat cloning bespoke tidak berubah sesuai yang telah diclone
+
+Santri Zahratul Fatmi:
+1. Hari ini saya mengubah html dalam index.html
+2. Saya ada kendala dalam proses push data ke dalam github
+
+27/5
+Daily Scrum
+Muhamamad Affan:
+1. Kemarin saya mengerjakan design dasar presentation, membagi tugas backlog dalam Sprint serta membantu anggota dalam proses git yang bermasalah
+2. Hari ini saya mengerjakan pengeditan cover, list dan memantau git serta mengajarkan merge
+3. Sejauh ini tidak ada, hanya saja apabila terjadi kembali ke commit sebelum nya belum dicari tahu karena menggunakan git bash, tidak menggunakan source tree
+
+Rizky Syahputra:
+1. Kemarin kan clone repo
+2. hari ini mengerjakan deskripsi beserta list anggota
+3. masalah dalam mendesain section yang dibikin
+
+Muhammad Iqbal Lubis:
+1. Kemarin kerjakan clone repository dan fork
+2. Hari ini membuat slide kelebihan
+3. Kendala dalam merge
+
+Santri Zahratul Fatmi:
+1. Kemarin mengerjakan html dalam index.html
+2. Hari ini desain cover dan edit foto
+3. Mengalami kendala dalam merge
+
+28/5
+Daily Scrum
+Muhammad Affan:
+1. Kemarin saya mengerjakan pengeditan cover, list dan pantau git dan commits
+2. Hari ini saya mengerjakan Medan Sekilas
+3. Tidak mempunyai masalah sejauh ini
+
+Rizky Syahputra:
+1. semalam buat section Sejarah Kota Medan dan list anggota
+2. Hari ini yang akan d kerjakan mendesain section Sejarah Kota Medan
+3. kendala dalam mengcoding
+
+Muhammad Iqbal Lubis:
+1. Kemarin kerjakan clone repository dan fork
+2. Hari ini membuat slide kelebihan
+3. Belum ada kendala
+
+Santri Zahratul Fatmi:
+1. Hari ini edit css, merge manual, tambah deskripsi sejarah kota medan
+3. Sejauh ini blm ada masalah yg mengganggu
+
+29/5
+Daily Scrum
+Muhammad Affan
+1. Semalam mengerjakan medan rumah kita
+2. Hari ini merapikan css dan memulai ukuran layar
+3. Tidak mempunyai masalah sejauh ini
+
+Rizky Syahputra:
+1. kemarin edit CSS
+2. Hari ini yang akan dikerjakan Hari Jadi Kota Medan
+
+Muhammad Iqbal Lubis:
+1. menambah artikel di Hari Jadi Kota Medan
+2. Hari ini Pergantian Scrum master dimana saya yang menjadi Scrum Master kali ini, yang akan dikerjakan slide Visi dan Misi
+3. Belum ada kendala
+
+Santri Zahratul Fatmi:
+1. melanjutkan pengerjaan Visi dan Misi
+2. Sejauh ini blm ada masalah yg mengganggu
+
+30/5
+Daily Scrum
+Muhammad Affan
+1. menyelesaikan slide Medan Rumah Kita.
+2. belum ada masalah yang mengganggu.
+
+Rizky Syahputra:
+1. kemarin yang dikerjakan visi dan misi
+2. Hari ini menambahkan section program prioritas
+
+Muhammad Iqbal Lubis:
+1. Kemarin yang dikerjakan slide Hari Jadi Kota Medan
+2. Hari ini menambahkan penjelasan pada program prioritas
+3. Belum ada kendala
+
+Santri Zahratul Fatmi:
+1. Semalam edit css, tambah slide pada program prioritas
+2. Sejauh ini blm ada masalah yg mengganggu
+
+31/5
+Daily Scrum
+Muhammad Affan
+1. Semalam saya mengganti kalimat dalam Medan Rumah Kita dan menyelesaikan slide Medan Rumah Kita.
+2. Hari ini saya mengedit section program prioritas
+3. Masalah yang dialami adalah padatnya waktu sehingga susah berkreasi.
+
+Rizky Syahputra:
+1. kemarin yang dikerjakan menambahkan section program prioritas
+2. Hari ini yang akan dikerjakan mengubah kalimat di program prioritas
+3. tidak ada kendala hari ini
+
+Muhammad Iqbal Lubis:
+1. Kemarin menambahkan penjelasan pada program prioritas
+
+Santri Zahratul Fatmi:
+1. Semalam mengerjakan tambah slide pada program prioritas
+3. Kendala dalam menyusun css untuk setiap desain.
+
+
+05/6
+Daily Scrum
+Muhammad Affan :
+1. Semalam saya memperbaiki slide yang salah.
+2. Hari ini saya menambah program prioritas.
+3. membuat backlog
